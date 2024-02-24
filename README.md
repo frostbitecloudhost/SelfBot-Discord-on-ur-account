@@ -10,13 +10,21 @@ This is a public self bot repo that u can use to make ur dc acc as a bot ykyk
 # How to use
 
 • Recommend using vs code
+
 • You will need your account token idk how u can get but just get it yk
+
 • Clone this repo in your vs code edit9r or if u are in android then use VHEDITOR 
+
 • After putting ur credentials in ```file``` you're ready to start
+
 • Top Left Corner ```Terminal > New Terminal``` 
+
 • After terminal success fully created then dk this ```Run > New Debug``` then yourdont if there is no errors
+
 • Go to Discord dm and type ``` SetPrefix !``` Also u can choose any symbol as prefix
+
 • If u want to install commands then join this discord server and download any ``.js`` command file
+
 • Then In your Forked Repo Upload the ```.js``` in ```Commands``` Folder 
 • Then You're Done ✅
 
